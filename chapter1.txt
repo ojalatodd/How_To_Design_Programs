@@ -1,0 +1,10 @@
+Notes for Chapter 1: Arithmetic
+
+Real world data -->  programmer must learn to compose basic data and describe such compositions.
+
+Operations on data --> program must learn to compose these operations into a program that performs desired computations.
+
+p. 23: Critical for a programmer to know how the chosen language calculates.
+
+primitive operatiosn = pre-defined operations. 
+
