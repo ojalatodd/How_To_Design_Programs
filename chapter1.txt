@@ -4,7 +4,16 @@ Real world data -->  programmer must learn to compose basic data and describe su
 
 Operations on data --> program must learn to compose these operations into a program that performs desired computations.
 
-p. 23: Critical for a programmer to know how the chosen language calculates.
+p. 34: Critical for a programmer to know how the chosen language calculates.
 
 primitive operatiosn = pre-defined operations. 
 
+ATOMIC DATA - numbers, strings, images and Booleans
+  * Can't "peek inside" atomic data, but you can operate on them.
+
+p. 36 Exact vs inexact numbers 
+
+Exercise 1:
+(define x 3)
+(define y 4)
+(define (dist x y) (sqrt (+ (* x x) (* y y))))
