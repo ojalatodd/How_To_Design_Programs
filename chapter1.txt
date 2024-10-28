@@ -17,3 +17,19 @@ Exercise 1:
 (define x 3)
 (define y 4)
 (define (dist x y) (sqrt (+ (* x x) (* y y))))
+p. 37 "Programming languages are about computing with information, and information comes in all shapes and forms."
+p. 38 Strings
+
+Exercise 2:
+ (define prefix "hello")
+> (define suffix "world")
+> (string-append prefix suffix)
+
+p. 40 Nested operations, errors
+
+Exercise 3: 
+(define str "helloworld")
+(define i 5)
+
+(string-append (substring str 0 i) "_" (substring str i))
+
